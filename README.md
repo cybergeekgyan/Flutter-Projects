@@ -9,6 +9,10 @@ Made By Gyan with ❤️
 
 - [Flutter Google Docs App]()
 
+- [Flutter Twitter Clone]()
+
+- [Flutter Netflix Clone]()
+
 - [Flutter WhatsApp Clone]() 
 
 - [Flutter Spotify Clone]()
